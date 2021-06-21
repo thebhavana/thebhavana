@@ -9,7 +9,9 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Umm! 🍪 
 - ✨ Skills: Front-end web developer
+- 
 Popular Projects:
 * ◾ https://thebhavana.github.io/project-guide/ 
 * ◾ https://thebhavana.github.io/institute/
-* ...Adding more ⏩
+* 
+ ...Adding more ⏩
