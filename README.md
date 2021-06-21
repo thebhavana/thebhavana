@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on public repositories.
 - 🤔 I’m looking for help with backend of applications.                       
 - ⚡ Fun fact: Umm! 🍪 
-- ✨ Skills: Front-end web developer 
+- ✨ Skills: Technical
 
 **Popular Projects:**
  ◾ https://thebhavana.github.io/project-guide/ 
