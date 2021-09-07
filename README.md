@@ -8,3 +8,4 @@
 - Project4! https://thebhavana.github.io/Recruit/
 - Project5! https://thebhavana.github.io/trip/
 - Stopwatch: https://thebhavana.github.io/js-stopwatch/
+- Clock: thebhavana.github.io/js-clock/
