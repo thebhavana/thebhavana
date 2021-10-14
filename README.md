@@ -13,7 +13,6 @@
 <h2><b>🛠 Languages and Tools I use </b></h2>
 
   ![C](https://img.shields.io/badge/-C-040E2C?style=for-the-badge&logo=C)
-  ![C++](https://img.shields.io/badge/C++-040E2C?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
   ![HTML](https://img.shields.io/badge/-HTML-040E2C?style=for-the-badge&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-040E2C?style=for-the-badge&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-040E2C?style=for-the-badge&logo=javascript)
