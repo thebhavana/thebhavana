@@ -2,7 +2,8 @@
 🍁 Hii!! 
 <br />
 <br />
-<img align="right " src="https://c.tenor.com/Bpv9wTLKMskAAAAM/computer-nerds.gif" width="210px" style="max-width:100%;">
+
+<img align="right" src="https://c.tenor.com/Bpv9wTLKMskAAAAM/computer-nerds.gif" width="210px" style="max-width:100%;">
 <br />
 
 <p align="left">
