@@ -1,4 +1,4 @@
- **I am Bhawana Kumar, 3rd year computer engineering student. I am working to build websites and robots.** 💻 
+ **I am Bhawana Kumar, 3rd year computer engineering student. My interest includes build websites and robots.** 💻 
 
 
 Check out my projects here ➡️ https://github.com/thebhavana/Project-Book ✨
