@@ -42,8 +42,6 @@
 
 <br />
 <br />
-<p><img src="https://activity-graph.herokuapp.com/graph?username=saloni-15&bg_color=050F2C&color=0095DD&line=0095DD&hide_border=false" alt="contribution graph" /></p>
-
 - 🔭 I’m currently working on projects.
 - ✨ Skills: Technical
 - Ebook! https://thebhavana.github.io/project-guide/
