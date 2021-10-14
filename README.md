@@ -5,7 +5,7 @@
 <img align="right " src="https://c.tenor.com/Bpv9wTLKMskAAAAM/computer-nerds.gif" width="210px" style="max-width:100%;">
 <br />
 
-<p align="right">
+<p align="left">
 <h2><b>🛠 Languages and Tools I use </b></h2>
 
   ![C](https://img.shields.io/badge/-C-040E2C?style=for-the-badge&logo=C)
