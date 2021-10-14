@@ -1,15 +1,10 @@
 
 🍁 Hii!! 
-
-
 <br />
 <img align="left " src="https://c.tenor.com/Bpv9wTLKMskAAAAM/computer-nerds.gif" width="210px" style="max-width:100%;">
-
-
 <br />
 
-<br /> 
-<p align="left">
+<p align="right">
 <h2><b>🛠 Languages and Tools I use </b></h2>
 
   ![C](https://img.shields.io/badge/-C-040E2C?style=for-the-badge&logo=C)
