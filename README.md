@@ -3,7 +3,7 @@
 <br />
 <br />
 
-<img align="right" src="https://c.tenor.com/Bpv9wTLKMskAAAAM/computer-nerds.gif" height="180px" style="max-width:100%; border-radius:25px">
+<img align="right" src="https://c.tenor.com/Bpv9wTLKMskAAAAM/computer-nerds.gif" height="180px" style="max-width:100%;">
 <br />
 
 <p align="left">
