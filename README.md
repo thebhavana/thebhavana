@@ -24,20 +24,4 @@
 
 ![](https://komarev.com/ghpvc/?username=thebhavana&color=00ACFF)
 
-
 </a>
-
-
-<br>
-
-<br />
-<br />
-- 🔭 I’m currently working on projects.
-- ✨ Skills: Technical
-- Ebook! https://thebhavana.github.io/project-guide/
-- Blogpage! https://thebhavana.github.io/data-science/
-- Hotelsite! https://thebhavana.github.io/Restaurant/
-- Recruitpage! https://thebhavana.github.io/Recruit/
-- Travelsite! https://thebhavana.github.io/trip/
-- Stopwatch: https://thebhavana.github.io/js-stopwatch/
-- Clock: https://thebhavana.github.io/js-clock/
