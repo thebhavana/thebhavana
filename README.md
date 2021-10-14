@@ -19,11 +19,6 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-040E2C?style=for-the-badge&logo=javascript)
   ![JQuery](https://img.shields.io/badge/-JQuery-040E2C?style=for-the-badge&logo=jquery&logoColor=0769ad)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-040E2C?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
-  
-  <br>
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-040E2C?style=for-the-badge&logo=mongodb)
-  <br>
-  ![Git](https://img.shields.io/badge/-Git-040E2C?style=for-the-badge&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-040E2C?style=for-the-badge&logo=github)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-040E2C?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
   
