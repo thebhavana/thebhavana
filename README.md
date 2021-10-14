@@ -1,7 +1,7 @@
  **I am Bhawana Kumar, 3rd year computer engineering student. I want to build websites and robots.** 💻 
 
 
-Check out my projects here ➡️ https://github.com/thebhavana ✨
+Check out my projects here ➡️ https://github.com/thebhavana/Project-Book ✨
 
 <img align="right" src="https://c.tenor.com/Bpv9wTLKMskAAAAM/computer-nerds.gif" height="180px" style="max-width:100%;">
 
