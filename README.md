@@ -13,6 +13,7 @@ Check out my projects here ➡️ https://github.com/thebhavana/Project-Book ✨
   ![HTML](https://img.shields.io/badge/-HTML-040E2C?style=for-the-badge&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-040E2C?style=for-the-badge&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-040E2C?style=for-the-badge&logo=javascript)
+  ![R](https://img.shields.io/badge/-R-040E2C?style=for-the-badge&logo=R)
   ![JQuery](https://img.shields.io/badge/-JQuery-040E2C?style=for-the-badge&logo=jquery&logoColor=0769ad)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-040E2C?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
   ![GitHub](https://img.shields.io/badge/-GitHub-040E2C?style=for-the-badge&logo=github)
