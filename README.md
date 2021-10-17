@@ -10,6 +10,8 @@ Check out my projects here ➡️ https://github.com/thebhavana/Project-Book ✨
 <h2><b>Languages & Tools ⚙️ </b></h2>
 
   ![C](https://img.shields.io/badge/-C-040E2C?style=for-the-badge&logo=C)
+  ![Python](https://img.shields.io/badge/-Python-040E2C?style=for-the-badge&logo=Python)
+  ![Java](https://img.shields.io/badge/-Java-040E2C?style=for-the-badge&logo=Java)
   ![HTML](https://img.shields.io/badge/-HTML-040E2C?style=for-the-badge&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-040E2C?style=for-the-badge&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-040E2C?style=for-the-badge&logo=javascript)
