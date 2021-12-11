@@ -1,4 +1,4 @@
- **I am Bhawana Kumar, 3rd year computer engineering student. My interest includes building websites and robots.** 💻 
+ ## I am Bhawana Kumar, 3rd year computer engineering student. My interest includes building *websites* and *robots*. 💻 
 
 
 Check out my projects here ➡️ https://github.com/thebhavana/Project-Book ✨
@@ -6,8 +6,7 @@ Check out my projects here ➡️ https://github.com/thebhavana/Project-Book ✨
 <img align="right" src="https://c.tenor.com/Bpv9wTLKMskAAAAM/computer-nerds.gif" height="180px" style="max-width:100%;">
 
 
-<p align="left">
-<h2><b>Languages & Tools ⚙️ </b></h2>
+# Languages & Tools ⚙️
 
   ![C](https://img.shields.io/badge/-C-040E2C?style=for-the-badge&logo=C)
   ![Python](https://img.shields.io/badge/-Python-040E2C?style=for-the-badge&logo=Python)
@@ -21,7 +20,3 @@ Check out my projects here ➡️ https://github.com/thebhavana/Project-Book ✨
   ![GitHub](https://img.shields.io/badge/-GitHub-040E2C?style=for-the-badge&logo=github)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-040E2C?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 <br />
-
-![](https://komarev.com/ghpvc/?username=thebhavana&color=00ACFF)
-</p>
-
