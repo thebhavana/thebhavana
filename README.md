@@ -25,7 +25,3 @@ Check out my projects here ➡️ https://github.com/thebhavana/Project-Book ✨
 ![](https://komarev.com/ghpvc/?username=thebhavana&color=00ACFF)
 </p>
 
-<a align="center" href="https://github.com/thebhavana/thebhavana">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thebhavana&show_icons=true&theme=algolia&repo=thebhavana" />
-<div style="font-weight: 800;">
-</a>
