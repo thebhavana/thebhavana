@@ -1,23 +1,10 @@
-#### I am Bhawana Kumar, 3rd year computer engineering student. My interest includes building *applications*.💻 
-
+#### I am Bhawana Kumar, cse student.My interest includes building **applications**⌨.
 
 #### Do Check My Projects ➡️ https://github.com/thebhavana/Project-Book ✨
 
 <img align="right" src="https://c.tenor.com/Bpv9wTLKMskAAAAM/computer-nerds.gif" height="180px" style="max-width:100%;">
 
 
-## Tool⌨
 
 
-  ![C](https://img.shields.io/badge/-C-040E2C?style=for-the-badge&logo=C)
-  ![Python](https://img.shields.io/badge/-Python-040E2C?style=for-the-badge&logo=Python)
-  ![Java](https://img.shields.io/badge/-Java-040E2C?style=for-the-badge&logo=Java)
-  ![HTML](https://img.shields.io/badge/-HTML-040E2C?style=for-the-badge&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-040E2C?style=for-the-badge&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-040E2C?style=for-the-badge&logo=javascript)
-  ![R](https://img.shields.io/badge/-R-040E2C?style=for-the-badge&logo=R)
-  ![JQuery](https://img.shields.io/badge/-JQuery-040E2C?style=for-the-badge&logo=jquery&logoColor=0769ad)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-040E2C?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
-  ![GitHub](https://img.shields.io/badge/-GitHub-040E2C?style=for-the-badge&logo=github)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-040E2C?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-<br />
+
