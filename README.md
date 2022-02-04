@@ -6,7 +6,8 @@
 <img align="right" src="https://c.tenor.com/Bpv9wTLKMskAAAAM/computer-nerds.gif" height="180px" style="max-width:100%;">
 
 
-#### Tools ▪▪▪ ✔️
+## Tool⌨
+
 
   ![C](https://img.shields.io/badge/-C-040E2C?style=for-the-badge&logo=C)
   ![Python](https://img.shields.io/badge/-Python-040E2C?style=for-the-badge&logo=Python)
