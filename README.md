@@ -1,12 +1,12 @@
- ## I am Bhawana Kumar, 3rd year computer engineering student. My interest includes building *websites* and *robots*. 💻 
+#### I am Bhawana Kumar, 3rd year computer engineering student. My interest includes building *applications*.💻 
 
 
-### Do Check My Projects ➡️ https://github.com/thebhavana/Project-Book ✨
+#### Do Check My Projects ➡️ https://github.com/thebhavana/Project-Book ✨
 
 <img align="right" src="https://c.tenor.com/Bpv9wTLKMskAAAAM/computer-nerds.gif" height="180px" style="max-width:100%;">
 
 
-# Languages & Tools ⚙️
+#### Tools ▪▪▪ ✔️
 
   ![C](https://img.shields.io/badge/-C-040E2C?style=for-the-badge&logo=C)
   ![Python](https://img.shields.io/badge/-Python-040E2C?style=for-the-badge&logo=Python)
