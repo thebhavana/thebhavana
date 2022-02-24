@@ -1,6 +1,6 @@
 #### I am Bhawana Kumar, cse student. 
 
-My interest includes building **applications**.
+My interest includes building **applications** and collaborating for projects.
 
 #### Do Check My Projects ➡️ https://github.com/thebhavana/Project-Book ✨
 
