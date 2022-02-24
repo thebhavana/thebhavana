@@ -1,4 +1,4 @@
-#### I am Bhawana Kumar, cse student. 
+#### I am Bhawana Kumar, tech enthusiast. 
 
 My interest includes building **applications** and collaborating for projects.
 
