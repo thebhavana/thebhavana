@@ -3,9 +3,9 @@
 
 I am Bhawana Kumar, engineering student and a tech enthusiast. 
 
-My interest includes building **APPLICATIONS**, learning latest *TECHNOLOGIES* and collaborating on *PROJECTS*.
+My interest includes building *APPLICATIONS*, learning latest *TECHNOLOGIES* and collaborating on *PROJECTS*.
 
-#### KINDLY CHECK MY PROJECTS ➡️ https://github.com/thebhavana/Project-Book ✨
+###### KINDLY CHECK MY PROJECTS ➡️ https://github.com/thebhavana/Project-Book ✨
 
 
 
